@@ -1,2 +1,2 @@
 [phases.setup]
-nixPkgs = ["nodejs-16_x", "yarn"]
+nixPkgs = ["nodejs-14_x", "yarn"]
